@@ -1,4 +1,5 @@
 # Flexbox
+There are different methods for incorporating responsive design. In this lab, we will explore a tool called **Flexbox** that helps create a fluid layout for website responsiveness. To learn more about other methods, check out [MDN Doc on responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design).
 ## Flexbox at a Glance
 
 **Flexbox** (or Flexible Box) creates a flexible container around items. It is an efficient way to position, align, and distribute items that are responsive to screen size. When discussing the Flexbox Layout, we will identify two key terms: flex container and flex items.
